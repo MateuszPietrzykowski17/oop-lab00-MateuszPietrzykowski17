@@ -6,7 +6,7 @@
 - Wersja Git: git version 2.55.0
 - Wersja kompilatora C++: 16.1.1 20260625
 - Wersje java i javac: 26.0.1
-- Link do pierwszego PR (uzupełnij w zadaniu 5): ...
+- Link do pierwszego PR (uzupełnij w zadaniu 5): [link](https://github.com/MateuszPietrzykowski17/oop-lab00-MateuszPietrzykowski17/actions/runs/37118832653)
 
 ## Uruchomienie lokalne
 Wynik programu C++:
@@ -19,10 +19,13 @@ Hello from Java! Author: MateuszPietrzykowski17
 ```
 
 ## Błąd i poprawka (zadanie 5)
-- Krótki fragment komunikatu błędu i numer linii: ...
-- Przyczyna oraz sposób naprawy: ...
-- Commit z błędem (SHA lub link): ...
-- Czy Actions pokazały błąd, a po naprawie sukces? ...
+- Krótki fragment komunikatu błędu i numer linii: 
+Compile C++
+Process completed with exit code 1.
+
+- Przyczyna oraz sposób naprawy: Brak średnika, wystarczy przywrócić średnik
+- Commit z błędem (SHA lub link): [link](https://github.com/MateuszPietrzykowski17/oop-lab00-MateuszPietrzykowski17/actions/runs/37659661101/job/112923624559)
+- Czy Actions pokazały błąd, a po naprawie sukces?: Tak
 
 ## Krótkie odpowiedzi
 1. Co różni commit od push? Commit zapisuje zmiany lokalnie na Twoim komputerze, a push wysyła je do zdalnego repozytorium.
